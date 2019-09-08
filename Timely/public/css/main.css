@@ -1,0 +1,31 @@
+.content{
+    padding:0px;
+    margin:0px;
+  
+}
+.main{
+    padding:0px; 
+    background-color:#EFF1F2;
+    height:3000px;
+    background-size: contain;
+}
+.sidebar{
+    padding:0px;
+    background-color:#44505E; 
+    height:3000px;
+}
+.sidebar{
+    padding:0px;
+    background-color:#44505E; 
+    height:3000px;
+}
+.icon{
+    width:30px;
+    height:30px;
+    /* border: medium solid #ff00ff; */
+    margin:0 auto;
+    margin-top:12px;
+    background-color: #3C4652;
+    border-radius: 10px;
+    
+}
